@@ -4,8 +4,8 @@
 
 + 💻 I'm a beginner fullstack-developer
 + 💬 I speak 3 languages: Tuvan, Russian, English
-+ 🎵 Like to listen to music of all genres
-+ 💪 Love sport and delicious healthy food
++ 🎵 I like to listen to music of all genres
++ 💪 I love sport and delicious healthy food
 + 🔭 I’m currently working on a website
 + 🌱 I’m currently learning JS, Python, SQL and Arduino
 + 📫 How to reach me: [@h3h3b0y](https://t.me/h3h3b0y)
