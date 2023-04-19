@@ -33,7 +33,7 @@
 <br />
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>:bar_chart: Statistics:</summary>
   <br />
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erutou&show_icons=true&theme=radical" />
   <br />
