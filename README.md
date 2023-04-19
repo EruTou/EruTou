@@ -11,8 +11,6 @@
 + 📫 How to reach me: [@h3h3b0y](https://t.me/h3h3b0y)
 + ⚡ Fun fact: I ❤️ 🐱
 
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -28,6 +26,7 @@
 <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Gulp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 
+<br />
 <br />
 <br />
 
