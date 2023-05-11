@@ -3,7 +3,6 @@
 ## About me:
 
 + 💻 I'm a beginner fullstack-developer
-+ 💬 I speak 3 languages: Tuvan, Russian, English
 + 🎵 I like to listen to music of all genres
 + 💪 I love sport and delicious healthy food
 + 🔭 I’m currently working on a website
