@@ -7,7 +7,6 @@
 + 💪 I love sport and delicious healthy food
 + 🔭 I’m currently working on a website
 + 🌱 I’m currently learning JS, Python, SQL and Arduino
-+ 📫 How to reach me: [@h3h3b0y](https://t.me/h3h3b0y)
 + ⚡ Fun fact: I ❤️ 🐱
 
 ## Languages and Tools:
