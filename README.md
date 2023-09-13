@@ -3,10 +3,8 @@
 ## About me:
 
 + 💻 I'm a beginner fullstack-developer
-+ 🎵 I like to listen to music of all genres
-+ 💪 I love sport and delicious healthy food
-+ 🔭 I’m currently working on a website
-+ 🌱 I’m currently learning JS, Python, SQL and Arduino
++ 🔭 I’m currently working on a simple calculator
++ 🌱 I’m currently learning JS, React, Python, Dart, Flutter
 + ⚡ Fun fact: I ❤️ 🐱
 
 ## Languages and Tools:
