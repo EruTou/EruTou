@@ -3,9 +3,7 @@
 ## About me:
 
 + 💻 I'm a beginner fullstack-developer
-+ 🔭 I’m currently working on a simple calculator
 + 🌱 I’m currently learning JS, React, Python, Dart, Flutter
-+ ⚡ Fun fact: I ❤️ 🐱
 
 ## Languages and Tools:
 
